@@ -1,0 +1,60 @@
+a350-900	kept
+787-9	kept
+a380-800	kept
+a320neo	kept
+g650er	kept
+global-7500	kept
+phenom-300e	kept
+falcon-8x	kept
+f-35a	kept
+typhoon	kept
+c-130j	Lockheed Martin C-130J Super Hercules	111823
+a400m	Airbus A400M Atlas	121772
+737-max-8	Boeing 737 MAX	200137
+737-800	Boeing 737 Next Generation	83875
+747-8i	Boeing 747-8	121347
+777-300er	Boeing 777	193954
+767-300er	Boeing 767	149122
+757-200	Boeing 757	146513
+a321neo	Airbus A321neo	79780
+a330-900	Airbus A330neo	143077
+a220-300	Airbus A220	230107
+a350-1000	Airbus A350	228268
+e195-e2	Embraer E-Jet E2 family	94046
+atr72-600	ATR 72	82201
+dash8-400	De Havilland Canada Dash 8	92874
+c919	Comac C919	133944
+crj900	Bombardier CRJ700 series	66492
+md-11	McDonnell Douglas MD-11	72935
+g700	Gulfstream G650/G700/G800	46933
+g280	Gulfstream G280	13331
+challenger-350	Bombardier Challenger 300	31074
+global-6500	Bombardier Global Express	63557
+falcon-6x	Dassault Falcon 6X	23508
+falcon-900lx	Dassault Falcon 900	17021
+falcon-2000lxs	Dassault Falcon 2000	19061
+praetor-600	Embraer Legacy 450/500 and Praetor 500/600	40876
+phenom-100ev	Embraer Phenom 100	37035
+citation-latitude	Cessna Citation Latitude	12599
+citation-longitude	Cessna Citation Longitude	22457
+citation-cj4	Cessna CitationJet/M2	37161
+hondajet	Honda HA-420 HondaJet	79518
+pc-24	Pilatus PC-24	43902
+learjet-75	Learjet 70/75	17900
+acj320neo	Airbus Corporate Jets	26469
+f-22a	Lockheed Martin F-22 Raptor	207523
+f-16	General Dynamics F-16 Fighting Falcon	253064
+fa-18ef	Boeing F/A-18E/F Super Hornet	178928
+f-15ex	Boeing F-15EX Eagle II	75712
+rafale	Dassault Rafale	337116
+gripen-e	Saab JAS 39 Gripen	249014
+su-57	Sukhoi Su-57	177082
+j-20	Chengdu J-20	185315
+su-35	Sukhoi Su-35	149448
+mig-29	Mikoyan MiG-29	270319
+a-10c	Fairchild Republic A-10 Thunderbolt II	143171
+b-52h	Boeing B-52 Stratofortress	187488
+c-17a	Boeing C-17 Globemaster III	117599
+kc-46a	Boeing KC-46 Pegasus	104786
+p-8a	Boeing P-8 Poseidon	180560
+a330-mrtt	kept
